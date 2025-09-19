@@ -50,4 +50,4 @@ public class Proceso {
         // P[id]-[nombre] (R:[tiempo restante])
         return String.format("P%d-%s (R:%d)", pid, nombre, tiempoRestante);
     }
-}
+}//fin

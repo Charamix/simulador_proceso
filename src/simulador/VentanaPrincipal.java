@@ -133,5 +133,5 @@ public class Simulador {
         // 5) Incrementar el tiempo y actualizar la etiqueta en GUI
         tiempo++;
         ventana.actualizarTiempo(tiempo);
-    }
+    }//fin
 }

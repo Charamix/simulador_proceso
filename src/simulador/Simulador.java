@@ -130,4 +130,4 @@ public class Simulador {
         tiempo++;
         ventana.actualizarTiempo(tiempo);
     }
-}
+}//fin
