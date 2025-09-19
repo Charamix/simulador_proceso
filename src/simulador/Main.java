@@ -17,5 +17,6 @@ public class Main {
             // Se hace visible la ventana
             ventana.setVisible(true);
         });
+        
     }
 }
